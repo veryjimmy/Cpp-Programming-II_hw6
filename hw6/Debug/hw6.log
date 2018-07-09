@@ -1,0 +1,14 @@
+﻿已經開始建置於 2018/6/5 上午 10:06:42。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\veryjimmy\Desktop\C++_project\hw6\hw6\hw6.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\veryjimmy\desktop\c++_project\hw6\hw6\source.cpp(31): warning C4305: '正在初始化' : 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\veryjimmy\Desktop\C++_project\hw6\Debug\hw6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\veryjimmy\Desktop\C++_project\hw6\Debug\hw6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\veryjimmy\Desktop\C++_project\hw6\Debug\hw6.lib" /MACHINE:X86 Debug\Source.obj
+         hw6.vcxproj -> C:\Users\veryjimmy\Desktop\C++_project\hw6\Debug\hw6.exe
+     1>專案 "C:\Users\veryjimmy\Desktop\C++_project\hw6\hw6\hw6.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.06
